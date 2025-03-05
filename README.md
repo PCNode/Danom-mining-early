@@ -2,7 +2,7 @@
 
 ##  Steps to Set Up
 
-### **1ï¸âƒ£ Create an Account**
+### **Create an Account**
 First, create an account on Hugging Face:  
  **[Sign Up Here](https://huggingface.co/join)**
 
